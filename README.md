@@ -6,6 +6,8 @@
 
 Interface inspirada no Spotify, desenvolvida durante a **Imersão Front-End da Alura** (Aula 01: revisão de HTML, CSS e JS na prática).
 
+![Screenshot da interface](screenshot.png)
+
 ## Sobre
 
 Réplica da tela inicial do Spotify — sidebar de navegação, área principal com listagem de artistas e busca — construída com **HTML, CSS e JavaScript puros**, sem frameworks. Os dados dos artistas vêm de um arquivo JSON local (`api-artists/artists.json`), simulando uma API.
